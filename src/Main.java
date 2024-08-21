@@ -13,7 +13,7 @@ public class Main {
         // != é diferente
         // equal compara textos
 
-        if(idadePessoa > 21){
+        if(idadePessoa > 21 ){
             System.out.println("é maior que 21");
         }else{
             System.out.println("Não é maior");
